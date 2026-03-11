@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=JaeMyung's%20GitHub&fontSize=90&fontColor=111111)
 
-# 👋 2025 Goal 👋
+# 👋 2026 Goal 👋
 - 🤗 ** 알고리즘 백준 골드, 프로그래머스 Lv3 달성 ** ✅
 - 🌱 ** 다양한 프로젝트 경험 쌓기 **
 - 🌹 ** 보다 가독성 있고 효율적인 코드로 개선하기 **
@@ -39,4 +39,6 @@
 >2024.07 ~ 2024.09 게임으로 즐기는 소비혜택, SOLoPLAY
 
 ### [ 2025 ]
->
+>2025.07 ~ 2025.08 물류창고 화재예방 모니터링 플랫폼, 마! 뜨급나! <br />
+>2025.08 ~ 2025.09 기프티콘 통합 보관 및 거래 서비스, GiftHub <br />
+>2025.10 ~ 2025.11 실시간 대규모 협업 3D 캔버스 플랫폼, 3D Place
