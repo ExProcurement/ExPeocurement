@@ -8,8 +8,6 @@
 
 # 🛠 Tech Stack 🛠
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 
@@ -17,20 +15,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=flat-square&logo=AJAX&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 [![ExProcurement's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemyungchoi95&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemyungchoi95&layout=compact&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaemyungchoi95&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 --- 
 
@@ -42,3 +35,8 @@
 >2025.07 ~ 2025.08 물류창고 화재예방 모니터링 플랫폼, 마! 뜨급나! <br />
 >2025.08 ~ 2025.09 기프티콘 통합 보관 및 거래 서비스, GiftHub <br />
 >2025.10 ~ 2025.11 실시간 대규모 협업 3D 캔버스 플랫폼, 3D Place
+
+### [ 2026 ]
+
+>2026.05 AI 기반 면접·발표 코칭 플랫폼, AXIA AI Tutor
+>2026.06 ~ 2026.08 Cloocus 인턴 — 엔터프라이즈 LLM 플랫폼 QA·시스템 검증 (RAG 품질 실측, 멀티에이전트 QA, 백엔드 root-cause)
