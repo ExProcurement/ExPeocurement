@@ -21,10 +21,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-[![ExProcurement's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemyungchoi95&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemyungchoi95&layout=compact&theme=radical)
-
 --- 
 
 ### [ 2024 ]
