@@ -34,5 +34,5 @@
 
 ### [ 2026 ]
 
->2026.05 AI 기반 면접·발표 코칭 플랫폼, AXIA AI Tutor
+>2026.05 AI 기반 면접·발표 코칭 플랫폼, AXIA AI Tutor <br/>
 >2026.06 ~ 2026.08 Cloocus 인턴 — 엔터프라이즈 LLM 플랫폼 QA·시스템 검증 (RAG 품질 실측, 멀티에이전트 QA, 백엔드 root-cause)
